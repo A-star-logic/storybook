@@ -13,3 +13,4 @@
 .pnp.*
 
 *storybook.log
+node_modules
